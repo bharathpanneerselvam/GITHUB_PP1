@@ -1,2 +1,2 @@
 created test1.txt file 
-This is newly modified 
+This is modified newly. 
